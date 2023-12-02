@@ -1,6 +1,6 @@
 package project_21;
 
-public class Soberi {
+public class Clenovi {
 
 	public static void main(String[] args) {
 		package projcet_21;
